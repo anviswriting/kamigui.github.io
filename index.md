@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+<h2>Welcome to 2nd website of KAMIGUI Official.</h2>
 
-You can use the [editor on GitHub](https://github.com/anviswriting/kamigui.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+本站為作品更新動態發佈區，將僅做簡單架構以及介紹。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本作為架空作品，劇情中與所提及之同名人物、神祇、團體、國名，除以現今已知名稱作為引用者外，其餘概不相關。故若無端對本作內容產生損害名譽之相關疑慮者，筆者與本作任一相關站點亦均不負責。
 
-### Markdown
+### 免責聲明
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+以下數項若實際發生，本作均不予承擔不需擔負的後果。包含但不限於：
 
-```markdown
-Syntax highlighted code block
+1. 違反分級之爭議
+針對限制級內容，若已盡告知與藏文責任，仍無視之並已閱覽本作該分級內容之未成年者，縱經家長質疑，本作一概不受理。
 
-# Header 1
-## Header 2
-### Header 3
+2. 任何宣稱聲稱或自稱因本作內容而引起的任何負面事端，以及與如上所述之情事相關的任何莫名質疑與批判。如：
+- 犯下任一重大犯罪行為。
+- 做出任一違反基本道義及道德之負面事件。
+- 損害當事人或當事人家屬之名譽、精神狀態、各界人際關係，並無端指出一切皆由本作所致。
+`任何人對事物都有不同的見解，能從本作中悟到什麼樣的事情，都該是讀者們自己的。但相對的，讀者們自己也該為自己所得出的見解，擔負起與其相應的責任與代價。普遍人一過了幼齡，家庭教育也好、學校教育也罷，幾乎都已經開始被告誡著負責的意義。學齡孩童們都尚且如此了，更遑論我們這些總被認為本來就該肩負相當的社會責任的成年人。不同年齡段都有他們自己本該負起的，重度不一的責任。有些人甚至還扛了其實並不符合自己年齡的責任重度。培養孩子們的應對與思考，可並不是由我們創作者們負責，那些都是在家庭教育的範圍內本該實現到的基本功能。讀者們該自己省思，而若有身為讀者們的家長之人，也同樣要反思你們自己究竟是否就是肇因之一，而不是總怪責在創作者們的身上。`
 
-- Bulleted
-- List
+`你們好好的關心過自己的子女/手足/親人了嗎？你們有用心去瞭解過他們適合被對待的方式嗎？`
 
-1. Numbered
-2. List
+**如果讀者們其實有著極適合自己的照顧，並且精神物質皆無一匱乏，但還是從本作中看到了些會衝擊你們既有觀念，而且是較負面的事物的話，那麼你們必須要更進一步去反覆思考，你所接觸到的內容帶給了你的影響、你會這麼想的成因，以及自己適不適合那麼想或那麼做。如果想好還是覺得那些的確就是自己所得到的答案，或者真的非做不可的話，那麼請抱持著與對自己的想法相同的堅持，去勇於承擔必須，或可能會面臨到的責任或代價。因為無論你從作品中看到了什麼，那些體悟那些思想，通通都是你自己的。只產生並存在於自己腦內，只專屬於你自己。你自己的東西，無論有形或是無形，只有你自己才需要去管控好。**
 
-**Bold** and _Italic_ and `Code` text
+3. 任何對個人之於本作的喜好度的過度表達，或與本作需改進之方向並無任何關連的所有惡意負評，本作亦一律不受理不負責
 
-[Link](url) and ![Image](src)
-```
+_你跟我說這部作品不用看了就是爛還有除了爛沒有任何點出問題點的必要我都只會當妳是強烈惡意。不想被我寫進作品裡當素材就請自重。_
+以上。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+基本事項聲明暫時明列至此。日後若遇到需增訂之細則再隨時更動。
 
-### Jekyll Themes
+### 這是部什麼樣的作品？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anviswriting/kamigui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+這是一部用意念戰勝神力，但是其實沒有勵志感的長篇小說。世界觀設定參考了與寫實及暴力題材相關的知名IP，但筆者個人只打算用盡乎全架空的方式創作這個題材的故事。
 
-### Support or Contact
+### 故事本文閱讀處
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+將於完成後於特定網誌中開放觀看權限。將隨著劇情進度完整開放前十篇。
