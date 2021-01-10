@@ -1,4 +1,4 @@
-<h2>Welcome to 2nd website of KAMIGUI Official.</h2>
+## Welcome to 2nd website of KAMIGUI Official.
 
 本站為作品更新動態發佈區，將僅做簡單架構以及介紹。
 
